@@ -1,3 +1,41 @@
+# Hi there 👋, I'm Nufail T B
+
+### Full-Stack Developer | MERN Stack Enthusiast | JavaScript & TypeScript Developer
+
+I'm a passionate Full-Stack Developer from India who enjoys building scalable web applications and solving real-world problems with modern technologies. My primary focus is on the MERN stack, TypeScript, backend architecture, and writing clean, maintainable code.
+
+
+🌱 *Currently Learning*
+
+* Advanced TypeScript
+* System Design & Software Architecture
+* Cloud & DevOps Fundamentals
+* Performance Optimization and Scalable Backend Systems
+
+👯 *Looking to Collaborate On*
+
+* Open-source projects
+* MERN Stack applications
+* SaaS products and developer tools
+
+💬 *Ask Me About*
+
+* JavaScript & TypeScript
+* React.js
+* Node.js & Express.js
+* MongoDB
+* REST APIs
+* Data Structures & Algorithms
+* Full-Stack Development
+
+📫 *How to Reach Me*
+
+* Portfolio: nufail.xyz
+
+⚡ *Fun Fact*
+I enjoy turning complex problems into simple, scalable solutions through code.
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nxfxl.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nufailtb) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NufailTb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nufailtb77@gmail.com) 
